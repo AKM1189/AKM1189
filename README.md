@@ -2,7 +2,9 @@
 
 I'm a **Full-Stack Developer** passionate about building scalable web applications and backend systems.
 
-I enjoy learning how systems work under the hood and building things from scratch — from frontend interfaces to backend infrastructure.
+I enjoy learning how systems work under the hood and building things from scratch — from frontend interfaces to backend infrastructure. My main focus is on building reliable backend services, designing clean APIs, and creating modern full-stack applications using JavaScript and TypeScript.
+
+I’m particularly interested in backend architecture, distributed systems, and performance-oriented applications. I like exploring how technologies such as databases, caching systems, and networking protocols work internally, and I often build small projects to understand them better.
 
 ---
 
