@@ -18,33 +18,16 @@ I enjoy learning how systems work under the hood and building things from scratc
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-* React
-* Next.js
-* JavaScript / TypeScript
-* HTML / CSS
-
-### Backend
-
-* Node.js
-* Express
-* NestJS
-* REST APIs
-
-### Databases
-
-* PostgreSQL
-* Prisma ORM
-* Redis
-
-### DevOps & Tools
-
-* Docker
-* Git
-* Linux
-* VS Code
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
 ---
 
 ## 📫 Connect With Me
